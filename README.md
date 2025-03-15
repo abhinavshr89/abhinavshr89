@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year Computer Science Student | Exploring Full-Stack Development with MERN Stack
+3rd Year Computer Science Student | Exploring Full-Stack Development with MERN Stack
 
 
 ## 🌐 Socials:

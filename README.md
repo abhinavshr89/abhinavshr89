@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Abhinav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Fintech%20·%20Problem%20Solver&descAlignY=60&descSize=18&descColor=a0a0c0" width="100%" />
+<img src="./header.svg" width="100%" alt="Abhinav — Software Engineer · Fintech · Problem Solver" />
 
 <a href="https://github.com/abhinavshr89">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=64FFDA&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+software+engineer+%C2%B7+fintech;%24+grep+-r+%22reliability%22+%2Fproduction;%24+./build_for_india.sh+--mode%3Dcapital_markets;%24+cat+%2Fdev%2Fcuriosity+%7C+head+-%E2%88%9E" alt="typing" />
